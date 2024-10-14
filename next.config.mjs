@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    assetPrefix: 'https://www.tloyan.com'
+    assetPrefix: 'https://qr-code-component.tloyan.com'
 };
 
 export default nextConfig;
