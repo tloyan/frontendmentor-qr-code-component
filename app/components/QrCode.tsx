@@ -5,7 +5,7 @@ export function QrCode() {
     <div className="max-w-xs rounded-[20px] bg-white p-4 pb-10">
       <div className="overflow-hidden rounded-[10px]">
         <Image
-          src="https://qr-code-component.tloyan.com/image-qr-code.png"
+          src="/image-qr-code.png"
           alt="frontendmentor qr code"
           width="576"
           height="576"
