@@ -2,8 +2,13 @@
 const nextConfig = {
     assetPrefix: 'https://qr-code-component.tloyan.com',
     images: {
-        domains: ['https://qr-code-component.tloyan.com'],
-    },
+        remotePatterns: [
+          {
+            protocol: 'https',
+            hostname: 'qr-code-component.tloyan.com',
+          },
+        ],
+      },
   };
   
 
