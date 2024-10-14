@@ -16,7 +16,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="h-full">
       <head>
-        <link rel="icon" href="/favicon-32x32.png" type="image/png" sizes="32x32" />
+        <link rel="icon" href="https://qr-code-component.tloyan.com/favicon-32x32.png" type="image/png" sizes="32x32" />
       </head>
       <body className={`${outfit.variable} h-full antialiased`}>
         {children}
