@@ -8,9 +8,28 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['var(--font-outfit)']
+      },
+      fontSize: {
+        base: ['0.938rem', {
+          lineHeight: '140%',
+          letterSpacing: '0.013em',
+          fontWeight: '500',
+        }],
+        xl: ['1.375rem', {
+          lineHeight: '120%',
+          letterSpacing: '0px',
+          fontWeight: '700',
+        }],
+      },
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        slate: {
+          900: '#1F314F',
+          500: '#68778D',
+          300: '#D5E1EF'
+        },
+        white: '#FFFFFF'
       },
     },
   },
