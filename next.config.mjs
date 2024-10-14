@@ -2,7 +2,7 @@
 const nextConfig = {
     assetPrefix: 'https://qr-code-component.tloyan.com',
     images: {
-        domains: ['qr-code-component.tloyan.com'],
+        domains: ['https://qr-code-component.tloyan.com'],
     },
   };
   
