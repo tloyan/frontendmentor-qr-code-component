@@ -6,6 +6,7 @@ const nextConfig = {
           {
             protocol: 'https',
             hostname: 'qr-code-component.tloyan.com',
+            pathname: '/**'
           },
         ],
       },
