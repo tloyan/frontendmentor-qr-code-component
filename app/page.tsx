@@ -2,7 +2,6 @@ import type { Metadata } from 'next'
 
 import { QrCode } from "@/app/components/QrCode";
 
- 
 export const metadata: Metadata = {
   title: 'QR code component',
   description: 'QR code component by Thomas Loyan',
