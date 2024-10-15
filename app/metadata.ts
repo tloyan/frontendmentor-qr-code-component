@@ -4,6 +4,9 @@ export const metadata: Metadata = {
   title: 'Qr Code Component | Frontend Mentor Challenge | Thomas Loyan',
   description: 'Frontend Mentor Challenge: QR code component built with Typescript, Next.js, Tailwind CSS.',
   generator: 'Next.js',
+  alternates: {
+    canonical: 'https://qr-code-component.tloyan.com'
+  },
   applicationName: 'Qr Code Component',
   referrer: 'origin-when-cross-origin',
   keywords: [
