@@ -1,7 +1,7 @@
 import "@/app/globals.css";
 import { Outfit } from "next/font/google";
 export { metadata } from '@/app/metadata';
-import { jsonLd } from "@/app/jsonld";
+import { jsonLd } from "@/app/jsonLd";
 
 const outfit = Outfit({
   subsets: ["latin"],
