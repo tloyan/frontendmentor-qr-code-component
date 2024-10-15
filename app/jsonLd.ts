@@ -14,7 +14,7 @@ const creativeWork: CreativeWork = {
   "@type": "CreativeWork",
   "name": "QR Code Component",
   "description": "QR code component built as part of a Frontend Mentor Challenge, using Typescript, Next.js, and Tailwind CSS.",
-  "datePublished": "2024-01-01",
+  "datePublished": new Date().toISOString().split('T')[0],
   "image": "https://qr-code-component.tloyan.com/preview.jpg",
   "inLanguage": "en",
   "author": {
