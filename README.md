@@ -22,7 +22,7 @@ Your challenge is to build out this QR code component and get it looking as clos
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/tloyan/frontendmentor-qr-code-component)
-- Live Site URL: [qr-code-component](https://www.tloyan.com/challenges/qr-code-component)
+- Live Site URL: [qr-code-component](https://qr-code-component.tloyan.com)
 
 ## My process
 
@@ -36,6 +36,7 @@ Your challenge is to build out this QR code component and get it looking as clos
 ### What I learned
 
 I learn some basic use of Tailwind CSS and how to do a basic config for tailwind CSS. I begin learning how to do with tailwind what I already know with CSS.
+I also learn't vercel rewrite with nextjs project could be challenging, especialy the work around Images component and this could cause losing some benefit of using nextjs.
 
 ### Useful resources
 
@@ -44,5 +45,5 @@ I learn some basic use of Tailwind CSS and how to do a basic config for tailwind
 
 ## Author
 
-- Website - [Thomas Loyan](https://www.tloyan.com)
+- Website - [Thomas Loyan](https://www.thomasloyan.com)
 - Frontend Mentor - [@tloyan](https://www.frontendmentor.io/profile/tloyan)
