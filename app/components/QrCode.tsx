@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export function QrCode() {
   return (
-    <div className="max-w-xs rounded-[20px] bg-white p-4 pb-10">
+    <div className="max-w-xs rounded-[20px] bg-white p-4 pb-10 drop-shadow-2xl">
       <div className="overflow-hidden rounded-[10px]">
         <Image
           src="/image-qr-code.png"

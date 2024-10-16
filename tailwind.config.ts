@@ -8,6 +8,9 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      dropShadow: {
+        '2xl': '0 25px 25px rgba(0, 0, 0, 0.0477)',
+      },
       fontFamily: {
         sans: ['var(--font-outfit)']
       },
