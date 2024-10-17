@@ -19,6 +19,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Your challenge is to build out this QR code component and get it looking as close to the design as possible.
 
+### Screenshot
+
+![](./screenshot.jpeg)
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/tloyan/frontendmentor-qr-code-component)
@@ -28,10 +32,10 @@ Your challenge is to build out this QR code component and get it looking as clos
 
 ### Built with
 
-- React
-- TypeScript
-- Tailwind CSS
-- Next.js
+- [React](https://react.dev/)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 ### What I learned
 
